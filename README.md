@@ -1,4 +1,4 @@
-This is the project for make up my Personal CV to the sector of Software Development.
+This is the project to make my Personal CV to the sector of Software Development.
 
 Would like to star in this world... after almonst, all my life playing with PC, fixing Software problems,
 Hadware problems, even once, i had to bake the graphic card, because it needed a hit oh heat for some welds.
