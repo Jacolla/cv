@@ -145,3 +145,7 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+a.suka{
+  border: solid 3px black;
+}  
