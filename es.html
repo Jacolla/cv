@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>CV Jaime Collado</title>
+    <title>CV | Jaime Collado</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -38,6 +38,9 @@
       #idiomas > a:hover{
         opacity: 0.5;
       }
+      #idiomas > #spanish{
+        opacity: 1.5;
+      }
 
     </style>
 
@@ -47,7 +50,7 @@
 
       $(document).ready(function () {
         // Ocultando el menu de idiomas de la barra de navegación si accedemos desde un
-        // una resolucion 
+        // una resolucion  menor que 1024
         if (screen.width<1024){
           $("#idiomas").hide();
         }
