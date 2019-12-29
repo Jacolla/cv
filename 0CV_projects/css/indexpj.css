@@ -1,4 +1,9 @@
+body{
+    font-family: 'Open Sans', serif;
+}
+
 #container{
+    font-family: 'Saira Extra Condensed', serif;
     background-color: #0170a3;    
     width: 17rem;
     height: 100vh;
@@ -10,15 +15,11 @@
 #contador{
     margin-top: 5rem;
     margin-left: 2rem;
-    border: 2px solid purple;
     width: 10rem;
-
 }
 
 #colorGame{
     margin-top: 15rem;
     margin-left: 2rem;
-    border: 2px solid purple;
     width: 10rem;
-
 }
