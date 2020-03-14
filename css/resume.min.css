@@ -1,6 +1,6 @@
 body{font-family:'Open Sans',serif;
     padding-top:54px;
-    color:#002266!important
+    color:#07227ce5!important
 }
 
 @media (min-width:992px){
@@ -37,7 +37,8 @@ h2{font-size:3.5rem}
 .list-icons .list-inline-item i:hover{color:#b3ccff}
 
 #sideNav .navbar-nav .nav-item .nav-link{font-weight:600;
-                                        text-transform:uppercase
+                                        text-transform:uppercase;
+                                        
                                     }
 @media (min-width:992px){#sideNav{text-align:center;
                                   position:fixed;
@@ -55,7 +56,7 @@ h2{font-size:3.5rem}
                     }
 #sideNav .navbar-brand .img-profile{max-width:10rem;
                                     max-height:10rem;
-                                    border:.5rem solid #FFFFFF 
+                                    border:.5rem solid rgba(240, 240, 240, 0.924)      /* anillo img */
                                 }
 
 #sideNav .navbar-collapse{display:flex;
@@ -89,7 +90,7 @@ section.resume-section .resume-item .resume-date{min-width:none}
 
 .bg-primary{
             background: rgb(30,190,235);
-            background: linear-gradient(140deg, rgba(30,190,235,1) 0%, rgba(25,173,78,1) 100%);
+            background: linear-gradient(115deg, rgba(30,190,235,1) 0%, rgb(83, 12, 163) 100%);     /* fondo navbar */
 }
 
 .text-primary{color:#002266!important}
